@@ -19,7 +19,6 @@ class AspiringSoftwareEngineer:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
 me = AspiringSoftwareEngineer()
 me.say_hi()
 ```
