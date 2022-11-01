@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-<div id="header" align="center">
-  <iframe src="https://giphy.com/embed/dkx4K9QDkqK0daAlub" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tech-support-it-itsm-dkx4K9QDkqK0daAlub">via GIPHY</a></p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yilintay/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
