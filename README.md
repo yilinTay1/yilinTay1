@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/stickers/tech-support-it-itsm-dkx4K9QDkqK0daAlub/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/dkx4K9QDkqK0daAlub" width="100%" height="100%" style="position:absolute"/>
 </div>
 
 ```python
