@@ -13,7 +13,7 @@ class AspiringSoftwareEngineer:
 
     def __init__(self):
         self.name = "Yi Lin Tay"
-        self.role = "Full Time Student By Day, Aspiring Developer By Night"
+        self.role = "Student By Day, Aspiring Developer By Night"
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
